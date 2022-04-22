@@ -1,5 +1,5 @@
 {
     "status":"success",
     "title":"hi99",
-    "sb":"<style>*{color:#fff}</style>"
+    "sb":"<style>*{color:#f00; font-size:60px !important}</style>"
 }
